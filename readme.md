@@ -1,8 +1,8 @@
 # Buenas, soy Mss Munroe :wave:
 
-## :computer: Programadora y amante del café :coffee: | Explorando mi código
+![Banner](./banner.jpeg)
 
-
+<p style="text-align:center;">💻 Programadora y amante del café ☕ | Explorando mi código</p>
 
 ## About me
 
@@ -11,7 +11,7 @@
 - :top: **PEAK** en mi vida: dibujo + lectura
 - :thinking: Pensando en Halloween
 
-## Tecnologías
+## Technologies
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -19,7 +19,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 
-## :alien: Top Code: Cifrado César
+## :alien: Top Code:  *Cifrado César*
 
 
 > En criptografía, el cifrado César, también conocido como cifrado por
@@ -87,10 +87,13 @@
 
 ## :dizzy: Proyecto Destacado
 
--  :clapper: [Frame a Movie](https://github.com/MssMunroe/frame-a-movie): Web para descubrir películas y compartir opiniones en comunidad.
+-  :clapper: [Frame a Movie](https://github.com/MssMunroe/FrameAMovie): Web para descubrir películas y compartir opiniones en comunidad.
 
 
 ## :bulb: Mis estadísticas
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MssMunroe&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MssMunroe&layout=compact&theme=radical)
+
+
+![Banner](./banner2.gif)
